@@ -1,0 +1,37 @@
+{
+    "configurations": [
+        {
+            "name": "esp32",
+            "includePath": [
+                "C:\\Program Files (x86)\\Arduino\\tools\\**",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\tools\\**",
+                // "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\**",
+                "C:\\Users\\Jonathan\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\**",
+                "C:\\Users\\Jonathan\\Documents\\Arduino\\libraries\\**",
+                //  "C:\\Program Files (x86)\\Arduino\\libraries\\**",
+                // "C:\\Users\\Jonathan\\Documents\\Arduino\\libraries\\custom-libraries\\chttp",
+                // "C:\\Users\\Jonathan\\Documents\\Arduino\\libraries\\custom-libraries\\chttp\\*",
+                "C:\\Users\\Jonathan\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.4\\**"
+                /* "C:\\Users\\Jonathan\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.4\\tools\\sdk\\include\\**",
+                "C:\\Users\\Jonathan\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.4\\tools\\sdk\\include\\esp32\\**",
+                "C:\\Users\\Jonathan\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.4\\libraries\\WiFi\\src\\**",
+                "C:\\Users\\Jonathan\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.4\\libraries\\HTTPClient\\src\\**"*/
+            ],
+            "forcedInclude": [
+                "C:\\Users\\Jonathan\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.4\\cores\\esp32\\Arduino.h"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "USBCON"
+            ],
+            "windowsSdkVersion": "10.0.18362.0",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "compilerPath": "C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr\\bin\\avr-gcc.exe",
+            "intelliSenseMode": "windows-gcc-arm64"
+        }
+    ],
+    "version": 4
+}
